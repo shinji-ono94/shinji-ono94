@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @shinji-ono94
 - 👀 I’m interested in Java,Go,Python,MySql,Docker,Cloud
 - 🌱 I’m currently learning Java,Go
-- 💞️ I’m looking to collaborate on contest
+- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me 1530sinnzi1003@gmail.com
 
 <!---

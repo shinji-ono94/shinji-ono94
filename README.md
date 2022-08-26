@@ -1,8 +1,5 @@
 - 👋 Hi, I’m @shinji-ono94
-- 👀 I’m interested in Java,Go,Python,MySql,Docker,Cloud
-- 🌱 I’m currently learning Java,Go
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me 1530sinnzi1003@gmail.com
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?shinji-ono94=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
 shinji-ono94/shinji-ono94 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
